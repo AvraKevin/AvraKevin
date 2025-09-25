@@ -1,29 +1,26 @@
-# My GitHub Pages Website
+<h1>Welcome to my personal website hosted with <strong>GitHub Pages</strong>!</h1>
 
-Welcome to my personal website hosted with **GitHub Pages**!
+<h2>📄 About</h2>
+<p>This website was created by forking a GitHub Pages starter repository and customizing the content.<br>
+It’s built using static HTML, CSS, and/or a Jekyll theme.</p>
 
-## 📄 About
+<h2>🚀 How to View</h2>
+<p>Visit my website at:<br>
+<a href="https://AvraKevin.github.io">https://AvraKevin.github.io</a></p>
 
-This website was created by forking a GitHub Pages starter repository and customizing the content.  
-It’s built using static HTML, CSS, and/or a Jekyll theme.
+<h2>🛠️ How to Customize</h2>
+<ol>
+  <li>Edit the <code>index.html</code> file to update your homepage.</li>
+  <li>Add or modify other files as needed (e.g., images, stylesheets).</li>
+  <li>Commit and push your changes—your site updates automatically!</li>
+</ol>
 
-## 🚀 How to View
+<h2>📚 Resources</h2>
+<ul>
+  <li><a href="https://docs.github.com/pages">GitHub Pages Documentation</a></li>
+  <li><a href="https://pages.github.com/themes/">Jekyll Themes</a></li>
+  <li><a href="https://www.markdownguide.org/">Markdown Guide</a></li>
+</ul>
 
-Visit my website at:  
-[https://AvraKevin.github.io](https://AvraKevin.github.io)
-
-## 🛠️ How to Customize
-
-1. Edit the `index.html` file to update your homepage.
-2. Add or modify other files as needed (e.g., images, stylesheets).
-3. Commit and push your changes—your site updates automatically!
-
-## 📚 Resources
-
-- [GitHub Pages Documentation](https://docs.github.com/pages)
-- [Jekyll Themes](https://pages.github.com/themes/)
-- [Markdown Guide](https://www.markdownguide.org/)
-
-## ✨ Credits
-
-Created with ❤️ using [GitHub Pages](https://pages.github.com/).
+<h2>✨ Credits</h2>
+<p>Created with ❤️ using <a href="https://pages.github.com/">GitHub Pages</a>.</p>
