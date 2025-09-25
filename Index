@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>AvraKevin's Portfolio</title>
+  </head>
+  <body>
+    <!-- https://jekyllthemes.io/theme/forty-jekyll-theme -->
+    <h1>Welcome to my personal website hosted with <strong>GitHub Pages</strong>!</h1>
+    <!-- ...rest of content... -->
+  </body>
+</html>
